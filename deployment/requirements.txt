@@ -5,6 +5,8 @@ pandas
 joblib
 openai
 python-dotenv
+spotipy
+
 
 # Core Framework
 streamlit>=1.28.0
