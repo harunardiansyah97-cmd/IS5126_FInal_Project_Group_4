@@ -1,11 +1,4 @@
-streamlit
-fastapi
-uvicorn
-pandas
-joblib
-openai
-python-dotenv
-spotipy
+
 
 
 # Core Framework
